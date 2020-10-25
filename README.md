@@ -18,22 +18,22 @@ This application is deployed on [Heroku](#) for any curious users to satiate the
 
 Alternatively, users may clone this repository and use the following commands to make begin the application, entering them in an integrated terminal within the main directory:
 
-* ```npm install express```
-* ```npm install express-handlebars```
-* ```npm install mysql```
+* ```npm install```
+OR
+* ```npm i```
 
 After installing these packages to make sure the application functions, users should enter:
 
 * ```node server.js```
 
-This final command will make the app listen on the LocalHost PORT.
+This final command will cause the app to listen on the LocalHost PORT.
 
-If following these commands, users should open their own browsers and go the following address to see the deployed application:
+If following these commands, users should open their own browsers and go to the following address to see the deployed application:
 
 > localhost:8080
 
 ## Technologies Used
-Node JS, MySQL, Express.js, Handlebars, JavaScript, CSS
+IndexedDB, MongoDB, Mongoose, Lite-Server, Morgan, Compression, Express.js, Handlebars, JavaScript, HTML, CSS
 
 ## Application Demo
 After following the information in the [Installation](#installation) section above--database start within MySQL, navigating to the localhost, as well as running ```node server.js```---users will be greated with an opening page that looks like this:
@@ -47,7 +47,7 @@ From here, users may add more burgers in the text box at the bottom of the page 
 
 In addition to being deployed on Heroku, here is a GIF showing the app's full functionality:
 
-![burger](https://user-images.githubusercontent.com/65187093/94218953-a17ac480-feb3-11ea-9a11-6d827eafe996.gif)
+![burger](public/assets/gif/fullApp.gif)
 
 ## Contact Information
 * Jarrod Bataille
