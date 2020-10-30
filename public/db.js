@@ -1,7 +1,7 @@
-const { get } = require("mongoose");
-
+// creates variable for database
 let db;
 
+// creates a new db request for a "budget" database
 const request = indexedDB.open("budget", 1);
 
 request.onupgradeneeded = event => {
