@@ -41,13 +41,13 @@ After following the information in the [Installation](#installation) section abo
 ![startpage](public/assets/img/startpage.png)
 
 
-----------------------------------------------
+Being on or offline, users should enter a transaction's name and value to the input fields and then select to either *"Add Funds"* to their current balance or *"Subtract Funds"* from their current balance, resulting in the transaction being moved to the list above the graph:
 
-![secondaryPNG](public/assets/img/devourbutton.png)
+![input](public/assets/img/input.png)
 
 In addition to being deployed on Heroku, here is a GIF showing the app's full functionality:
 
-![fullApp.gif](public/assets/gif/fullApp.gif)
+![budgetTracker.gif](public/assets/gif/budgetTracker.gif)
 
 ## Contact Information
 * Jarrod Bataille
