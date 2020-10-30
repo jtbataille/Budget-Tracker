@@ -30,7 +30,7 @@ This final command will cause the app to listen on the LocalHost PORT.
 
 If following these commands, users should open their own browsers and go to the following address to see the deployed application:
 
-> localhost:8080
+> localhost:3000
 
 ## Technologies Used
 IndexedDB, MongoDB, Mongoose, Lite-Server, Morgan, Compression, Express.js, Handlebars, JavaScript, HTML, CSS
