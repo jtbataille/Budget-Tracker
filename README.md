@@ -14,7 +14,7 @@ This application will allow users to access and utilize a budget tracker on- or 
 Users will be able to add expenses and desposits to their budget with or without an internet connection. These transactions will store within the IndexedDB and--when brough back online--will populate the new total and save to the MongoDB database. Perfect for travellers and busy workers alike!
 
 ## Installation
-This application is deployed on [Heroku](https://sleepy-springs-57650.herokuapp.com/) for any curious users to satiate their hunger.
+This application is deployed on [Heroku](https://sleepy-springs-57650.herokuapp.com/) for any curious users to experiment.
 
 Alternatively, users may clone this repository and use the following commands to make begin the application, entering them in an integrated terminal within the main directory:
 
